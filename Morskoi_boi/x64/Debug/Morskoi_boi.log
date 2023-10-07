@@ -1,0 +1,22 @@
+﻿  Morskoi_boi.cpp
+E:\Студенты\Новиков Сергей_П21\Morskoi_boi\Morskoi_boi\Computer.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(172,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+E:\Студенты\Новиков Сергей_П21\Morskoi_boi\Morskoi_boi\Map.h(16,1): message : see reference to function template instantiation 'std::pair<char,int>::pair<_Elem&,size_t&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Elem=char,
+              _Other1=char &,
+              _Other2=size_t &
+          ]
+E:\Студенты\Новиков Сергей_П21\Morskoi_boi\Morskoi_boi\Map.h(16,20): message : see reference to function template instantiation 'std::pair<char,int>::pair<_Elem&,size_t&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Elem=char,
+              _Other1=char &,
+              _Other2=size_t &
+          ]
+  Morskoi_boi.vcxproj -> E:\Студенты\Новиков Сергей_П21\Morskoi_boi\x64\Debug\Morskoi_boi.exe
